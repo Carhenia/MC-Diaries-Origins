@@ -10,7 +10,7 @@
 ![](https://img.shields.io/github/issues/Carhenia/MC-Diaries-Origins) ![](https://img.shields.io/github/followers/carhenia?style=social)
 </h1>
 
-This modpack is a re-release of the original Diaries modpack that was used on our servers. This re-release is specifically designed for old players to be able to load our old server files, which can be provided by requesting a copy from Carhenia. The modpack aims to replicate the setup used by Aphmau in her popular 2015 Minecraft series, Minecraft Diaries.
+This modpack is a re-release of the original Diaries modpack that was used on our servers. This re-release is specifically designed for old players to be able to load our old server files, which can be provided by requesting a copy from Carhenia. We will NOT provide copies to unknown players nor do we provide copies of our Aphmau Pheonix Drop World. The modpack aims to replicate the setup used by Aphmau in her popular 2015 Minecraft series, Minecraft Diaries.
 
  The modpack is a fan-made creation and is not affiliated with Aphmau in any way. Nebula Network has no official association with Aphmau or her production team. The modpack is purely a labor of love and an attempt to recreate the early production of the Minecraft Diaries series for fans.
 
